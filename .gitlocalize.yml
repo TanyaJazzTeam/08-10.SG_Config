@@ -11,6 +11,4 @@ pretranslate:
     - " tags"
     
     ignore_patterns:
-      - !ruby/regexp /{%\s?([a-zA-Z0-9\.\-\?\'\"\,\!\s\/]*)\s?%}/
-      - !ruby/regexp /{%\s?end([a-zA-Z0-9\.\-\?\'\"\,\!\s]*)\s?%}/
-      - !ruby/regexp /{%\s?AssessmentCallout([a-zA-Z0-9\.\-\?\'\"\,\!\s]*)\s?%}/
+      - !ruby/regexp  /^[A-Z]{1}[a-z]{3} [A-Z]{1}[a-z]{3}$/
