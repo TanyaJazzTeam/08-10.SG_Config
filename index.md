@@ -34,6 +34,8 @@ quality of experience they are delivering to their users. The Web Vitals
 initiative aims to simplify the landscape, and help sites focus on the metrics
 that matter most, the **Core Web Vitals**.
 
+Code
+
 ## Core Web Vitals
 
 Core Web Vitals are the subset of Web Vitals that apply to all web pages, should
